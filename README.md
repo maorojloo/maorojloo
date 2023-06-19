@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Amin Orojloo 👋
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="auto" height="auto">
+
 
 I'm a Back-End developer based in Tehran, Iran and a industrial engineering student. In my free time, I enjoy hiking and reading about new technologies.
 
